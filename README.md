@@ -1,6 +1,36 @@
-# Week2_spatial
+# China Spatial Data Visualization
 
-Link: https://hakufer.github.io/week2_spatial/
+## Mapas de China
+
+### 1. Mapa de China con Provincias
+![Mapa de China con Provincias](./mapa_china_provincias.png)
+
+### 2. Mapa de China con sus Ríos y Provincias
+![Mapa de China con sus Ríos y Provincias](./mapa_china_rios1.png)
+
+### 3. Mapa de China Solo con sus Ríos
+![Mapa de China Solo con sus Ríos](./mapa_china_rios2.png)
+
+### 4. Ciudades de China
+![Ciudades de China](./mapa_china_ciudades.png)
+
+### 5. Mapa con Divisiones Geográficas, Ciudades y Ríos
+![Mapa con Divisiones Geográficas, Ciudades y Ríos](./mapa_china_divisiones_ciudades_rios.png)
+
+### 6. Mapa de China con Centroides
+![Mapa de China con Centroides](./mapa_china_centroides.png)
+
+### 7. Aeropuertos en China
+![Aeropuertos en China](./mapa_china_aeropuertos.png)
+
+### 8. Aeropuertos en China por Provincias
+![Aeropuertos en China por Provincias](./mapa_china_aeropuertos_prov.png)
+
+### 9. Mapa de China con Ríos, Provincias, Ciudades y Aeropuertos
+![Mapa de China con Ríos, Provincias, Ciudades y Aeropuertos](./mapa_china_total.png)
+
+
+Link: 
 
 Este proyecto forma parte del CHALLENGE 1, donde se visualizan datos espaciales del país seleccionado: China. El objetivo es combinar tres capas de datos espaciales en un solo mapa:
 
