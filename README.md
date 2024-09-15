@@ -30,9 +30,7 @@
 ![Mapa de China con Ríos, Provincias, Ciudades y Aeropuertos](./mapa_china_total.png)
 
 
-Link: 
-
-Este proyecto forma parte del CHALLENGE 1, donde se visualizan datos espaciales del país seleccionado: China. El objetivo es combinar tres capas de datos espaciales en un solo mapa:
+Link:  https://hakufer.github.io/week2_spatial/ 
 
 Puntos: Aeropuertos
 Líneas: Ríos
