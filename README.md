@@ -1,5 +1,23 @@
 # China Spatial Data Visualization
 
+
+## Contenido del Repositorio
+
+- `data/`: Carpeta que contiene los archivos de datos utilizados en este análisis.
+  - `CHN_0.shp`: Shapefile con la geometría de China a nivel nacional.
+  - `CHN_1.shp`: Shapefile con las divisiones administrativas de China.
+- `index.ipynb`: Notebook con el código utilizado para el análisis, visualización, y procesamiento de los datos.
+- `mapa_china_provincias.png`: Mapa que muestra las provincias de China.
+- `mapa_china_rios1.png`: Mapa que muestra las provincias y ríos de China.
+- `mapa_china_rios2.png`: Mapa que muestra los ríos de China.
+- `mapa_china_ciudades.png`: Mapa que muestra las ciudades de China.
+- `mapa_china_divisiones_ciudades_rios.png`: Mapa que muestra las divisiones geográficas, ciudades y ríos de China.
+- `mapa_china_centroides.png`: Mapa que muestra los centroides de las provincias de China.
+- `mapa_china_aeropuertos_prov.png`: Mapa que muestra los aeropuertos de China por provincias.
+- `mapa_china_aeropuertos.png`: Mapa que muestra los aeropuertos en China.
+- `mapa_china_total.png`: Mapa completo que muestra ríos, provincias, ciudades, y aeropuertos en China.
+
+
 ## Mapas de China
 
 ### 1. Mapa de China con Provincias
@@ -32,11 +50,21 @@
 
 Link:  https://hakufer.github.io/week2_spatial/ 
 
-Puntos: Aeropuertos
-Líneas: Ríos
-Polígonos: Divisiones administrativas (provincias)
-
 ## Diccionario de Datos
+
+### Shapefiles de China
+| Shapefile | Descripción |
+| --- | --- |
+| **CHN_0.shp** | Shapefile que contiene la geometría de China a nivel nacional. Incluye el contorno del país. |
+| **CHN_1.shp** | Shapefile que contiene las divisiones administrativas de China (provincias). |
+
+### Datos de Geografía de China
+| Variable | Descripción |
+| --- | --- |
+| **Ríos** | Líneas que representan los ríos principales de China. |
+| **Ciudades** | Puntos que indican las ubicaciones de las principales ciudades de China. |
+| **Aeropuertos** | Puntos que representan los aeropuertos en China. |
+
 
 ### Aeropuertos
 | Variable            | Descripción                                                       |
