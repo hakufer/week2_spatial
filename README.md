@@ -4,8 +4,6 @@
 ## Contenido del Repositorio
 
 - `data/`: Carpeta que contiene los archivos de datos utilizados en este análisis.
-  - `CHN_0.shp`: Shapefile con la geometría de China a nivel nacional.
-  - `CHN_1.shp`: Shapefile con las divisiones administrativas de China.
 - `index.ipynb`: Notebook con el código utilizado para el análisis, visualización, y procesamiento de los datos.
 - `mapa_china_provincias.png`: Mapa que muestra las provincias de China.
 - `mapa_china_rios1.png`: Mapa que muestra las provincias y ríos de China.
